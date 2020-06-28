@@ -1,12 +1,9 @@
 <p align="center">
-    <a href="https://twitter.com/intent/follow?screen_name=mratefhares">
-        <img src="https://img.shields.io/twitter/follow/mratefhares?style=social&logo=twitter" alt="follow on Twitter">
+    <a href="https://stackoverflow.com/users/5993410/atef-hares">
+        <img src="https://img.shields.io/stackexchange/stackoverflow/r/5993410?color=%23E97F2B&label=stackoverflow&logo=stackoverflow" alt="Stackoverflow">
     </a>
     <a href="https://github.com/atefhares">
         <img src="https://img.shields.io/github/followers/atefhares?label=Follow&style=social" alt="follow on Twitter">
-    </a><br/>
-    <a href="https://stackoverflow.com/users/5993410/atef-hares">
-        <img src="https://img.shields.io/stackexchange/stackoverflow/r/5993410?color=%23E97F2B&label=stackoverflow&logo=stackoverflow" alt="Stackoverflow">
     </a><br/>
     <a href="https://www.linkedin.com/in/atefhares">
         <img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" alt="connect on LinkedIn" width="15" height="15">
