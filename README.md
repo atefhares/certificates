@@ -1,7 +1,16 @@
 # certificates
-![GitHub watchers](https://img.shields.io/github/watchers/atefhares/certificates?label=watch&style=social)
-![GitHub followers](https://img.shields.io/github/followers/atefhares?label=Follow&style=social)
-![Twitter Follow](https://img.shields.io/twitter/follow/mratefhares?label=Follow&style=social)
+
+<p align="center">
+    <a href="https://twitter.com/intent/follow?screen_name=mratefhares">
+        <img src="https://img.shields.io/twitter/follow/mratefhares?style=social&logo=twitter" alt="follow on Twitter">
+    </a>
+    <a href="https://github.com/atefhares">
+        <img src="https://img.shields.io/github/followers/atefhares?label=Follow&style=social" alt="follow on Twitter">
+    </a><br/>
+    <a href="https://www.linkedin.com/in/atefhares">
+        <img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" alt="connect on LinkedIn" width="15" height="15">
+    Atef Hares</a>
+</p>
 
 [Atef Hares @ LinkedIn](https://www.linkedin.com/in/atefhares)
 
