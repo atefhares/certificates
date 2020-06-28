@@ -1,5 +1,3 @@
-# certificates
-
 <p align="center">
     <a href="https://twitter.com/intent/follow?screen_name=mratefhares">
         <img src="https://img.shields.io/twitter/follow/mratefhares?style=social&logo=twitter" alt="follow on Twitter">
