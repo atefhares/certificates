@@ -24,11 +24,8 @@
 ## About
 ## Projects
 
-<details>
-  <summary>## Certificates </summary>
-  
-  ## Heading
-  - Udacity
+## Certificates
+- Udacity
   - [Cloud DevOps Nanodegree](https://github.com/atefhares/CurriculumVitae/certificates/blob/master/Udacity/Cloud%20DevOps%20Engineer%20Nanodegree.pdf) ([verifiable link](https://confirm.udacity.com/GAGUYGL4))
   - [Developing Android Apps - MAL program](https://github.com/atefhares/CurriculumVitae/certificates/blob/master/Udacity/Mobile%20Application%20Lunchpad%20-%20Udacity.jpg) (verifiable link)
 - Coursera
@@ -48,7 +45,5 @@
   - [Intel Ideation workshop](https://github.com/atefhares/CurriculumVitae/certificates/blob/master/Others/Intel%20Ideation%20workshop.jpg) (verifiable link)
   - [Intro to Android development](https://github.com/atefhares/CurriculumVitae/certificates/blob/master/Others/Intro%20to%20Android%20development.jpg) (verifiable link)
   - [Eco Coworking Space internship](https://github.com/atefhares/CurriculumVitae/certificates/blob/master/Others/Eco%20coworking%20space%20internship.jpg) (verifiable link)
-</details>
-
 
 ## Contact
