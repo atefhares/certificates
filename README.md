@@ -1,8 +1,9 @@
 # certificates
-![GitHub stars](https://img.shields.io/github/stars/atefhares/certificates?label=star&style=social)
 ![GitHub watchers](https://img.shields.io/github/watchers/atefhares/certificates?label=watch&style=social)
 ![GitHub followers](https://img.shields.io/github/followers/atefhares?label=Follow&style=social)
 ![Twitter Follow](https://img.shields.io/twitter/follow/mratefhares?label=Follow&style=social)
+
+[Atef Hares @ LinkedIn](https://www.linkedin.com/in/atefhares)
 
 Contains a photocopy of all certificates I have received, will be updated periodically 
 
