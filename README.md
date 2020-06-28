@@ -12,7 +12,8 @@
 
 
 <p align="center">
-    <b>Contains a photocopy of all certificates, awards or badges that I have received. will be updated periodically </b>
+    <b>Contains a photocopy of all Projects I created and Certificates that I received. will be updated periodically.</b>
+    <b>Will be updated periodically.</b>
 </p>
 
 ## Table Of Content
