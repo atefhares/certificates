@@ -6,7 +6,7 @@
     </a>
     <a href="https://github.com/atefhares">
         <img src="https://img.shields.io/github/followers/atefhares?label=Follow&style=social" alt="follow on Twitter">
-    </a>
+    </a><br/>
     <a href="https://www.linkedin.com/in/atefhares">
         <img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" alt="connect on LinkedIn" width="15" height="15">
     Atef Hares</a>
@@ -18,7 +18,7 @@
 </p>
 
 
-## Certificates
+### Certificates
 - Udacity
   - [Cloud DevOps Nanodegree](https://github.com/atefhares/certificates/blob/master/Udacity/Cloud%20DevOps%20Engineer%20Nanodegree.pdf) ([verifiable link](https://confirm.udacity.com/GAGUYGL4))
   - [Developing Android Apps - MAL program](https://github.com/atefhares/certificates/blob/master/Udacity/Mobile%20Application%20Lunchpad%20-%20Udacity.jpg) (verifiable link)
