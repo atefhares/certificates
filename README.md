@@ -16,12 +16,12 @@
 </p>
 
 ## Table Of Content
-* [About me](#About%20me)
+* [About me](#About)
 * [Projects](#Projects)
 * [Certificates](#Certificates)
-* [Contact me](#Contact%20me)
+* [Contact me](#Contact)
 
-## About me
+## About
 ## Projects
 
 ## Certificates
@@ -46,4 +46,4 @@
   - [Intro to Android development](https://github.com/atefhares/CurriculumVitae/certificates/blob/master/Others/Intro%20to%20Android%20development.jpg) (verifiable link)
   - [Eco Coworking Space internship](https://github.com/atefhares/CurriculumVitae/certificates/blob/master/Others/Eco%20coworking%20space%20internship.jpg) (verifiable link)
 
-## Contact me
+## Contact
