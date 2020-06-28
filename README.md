@@ -6,15 +6,17 @@
     </a>
     <a href="https://github.com/atefhares">
         <img src="https://img.shields.io/github/followers/atefhares?label=Follow&style=social" alt="follow on Twitter">
-    </a><br/>
+    </a>
     <a href="https://www.linkedin.com/in/atefhares">
         <img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" alt="connect on LinkedIn" width="15" height="15">
     Atef Hares</a>
 </p>
 
-[Atef Hares @ LinkedIn](https://www.linkedin.com/in/atefhares)
+##
+<p align="center">
+    Contains a photocopy of all certificates I have received, will be updated periodically 
+</p>
 
-Contains a photocopy of all certificates I have received, will be updated periodically 
 
 ## Certificates
 - Udacity
