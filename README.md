@@ -12,7 +12,7 @@
 
 
 <p align="center">
-    <b>Contains a photocopy of all Projects I created and Certificates that I received. will be updated periodically.</b>
+    <b>Contains a photocopy of all Projects I created and Certificates that I received.</b>
     <br/>
     <b>Will be updated periodically.</b>
 </p>
