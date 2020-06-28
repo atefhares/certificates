@@ -10,11 +10,12 @@
     Atef Hares</a>
 </p>
 
-##
+
 <p align="center">
-    Contains a photocopy of all certificates I have received, will be updated periodically 
+    <b>Contains a photocopy of all certificates I have received, will be updated periodically </b>
 </p>
 
+##
 
 ### Certificates
 - Udacity
