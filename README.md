@@ -12,7 +12,7 @@
 
 
 <p align="center">
-    <b>Contains a links to Some Projects I created and photocopy of Some Certificates that I earned.</b>
+    <b>Contains a links to some projects I created and photocopy of some certificates that I earned.</b>
     <br/>
     <b>Will be updated periodically.</b>
 </p>
