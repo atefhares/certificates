@@ -12,7 +12,9 @@
 
 
 <p align="center">
-    <b>Contains a photocopy of all certificates, awards or badges that I have received. will be updated periodically </b>
+    <b>Contains a links to Projects I created and photocopy of Certificates that I received.</b>
+    <br/>
+    <b>Will be updated periodically.</b>
 </p>
 
 ## Table Of Content
