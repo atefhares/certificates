@@ -16,13 +16,46 @@
 </p>
 
 ## Table Of Content
-* [About me](#About)
 * [Projects](#Projects)
 * [Certificates](#Certificates)
 * [Contact me](#Contact)
 
-## About
 ## Projects
+- DevOps:
+  - Udacity - Cloud DevOps Nanodegree:
+    - [Deploy a static website on AWS using S3, CloudFront](https://github.com/atefhares/udacity_cloud_devops_nanodegree/tree/master/deploy%20static%20website%20on%20s3%20and%20cloudfront)
+    - [Deploy a high-availability web app using CloudFormation](https://github.com/atefhares/udacity_cloud_devops_nanodegree/tree/master/Deploy%20a%20high-availability%20web%20app%20using%20CloudFormation)
+    - [Jenkins Pipelines on AWS](https://github.com/atefhares/udacity_cloud_devops_nanodegree/tree/master/jenkins%20pipelines%20on%20AWS)
+    - [Operationalize a Machine Learning Microservice API](https://github.com/atefhares/Udacity_Operationalize_a_Machine_Learning_Microservice_API)
+    - [Capstone Project](https://github.com/atefhares/Udacity_DevOps_Nanodegree_Capstone_Project)
+  - CI/CD playground:  
+    - [Challenge_0, building an infrastructure on AWS using jenkins, terraform, ansible, docker](https://github.com/atefhares/CICD_playground/tree/master/challenge_0)
+    - [Challenge_1, dockerizing a simple python web app with Redis database](https://github.com/atefhares/CICD_playground/tree/master/challenge_1)
+    - [Challenge_3, deploying the dockerized app from challenge_1 on a kubernetes cluster](https://github.com/atefhares/CICD_playground/tree/master/challenge_3)
+
+- Wep applications:
+  - RubyOnRails:
+    - [Blog Web App](https://github.com/atefhares/Blog_Web_App)
+    - [YalaNotlob](https://github.com/atefhares/yalanotlob-delivery-webapp)
+  - NodeJs:
+    - [BookManagementWebApp](https://github.com/atefhares/BookManagementWebApp)
+  - Python - Django:
+    - [CrowdFunding Console App](https://github.com/atefhares/CrowdFunding-Console-App)
+    - [CrowdFunding Web App](https://github.com/atefhares/CrowdFunding-Web-App)
+  
+- Android applications:
+  - [StudyOrganizer](https://github.com/atefhares/StudyOrganizer)
+  - [PopularMovies](https://github.com/atefhares/PopularMovies)
+
+- Desktop applications:
+  - [XO-Game-Pro-Client](https://github.com/atefhares/XO-Game-Pro-Client)
+  - [XO-Game-Pro-Server](https://github.com/atefhares/XO-Game-Pro-Server)
+
+- Static websites:
+  - [CV-Maker](https://github.com/atefhares/CV-Maker)
+
+- Bash:
+  - [Simple database engine](https://github.com/atefhares/simple-database-engine)
 
 ## Certificates
 - Udacity
@@ -47,3 +80,5 @@
   - [Eco Coworking Space internship](https://github.com/atefhares/CurriculumVitae/certificates/blob/master/Others/Eco%20coworking%20space%20internship.jpg) (verifiable link)
 
 ## Contact
+  - Email: atef_moh@sci.asu.edu.eg
+  - LinkedIn: https://www.linkedin.com/in/atefhares
