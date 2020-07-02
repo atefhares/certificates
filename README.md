@@ -83,7 +83,7 @@
 - Others
   - [InnovEgypt program](certificates/others/innovegypt.jpg) (verifiable link)
   - [Intel Ideation workshop](certificates/others/intel_ideation_workshop.jpg) (verifiable link)
-  - [Intro to Android development](https://github.com/atefhares/CurriculumVitae/certificates/blob/master/Others/Intro%20to%20Android%20development.jpg) (verifiable link)
+  - [Intro to Android development](certificates/others/intro_to_android_development.jpg) (verifiable link)
   - [Eco Coworking Space internship](certificates/others/eco_coworking_space_internship.jpg) (verifiable link)
 
 ## Contact
