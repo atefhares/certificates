@@ -63,6 +63,7 @@
 - Udacity
   - [Cloud DevOps Nanodegree](https://github.com/atefhares/CurriculumVitae/certificates/blob/master/Udacity/Cloud%20DevOps%20Engineer%20Nanodegree.pdf) ([verifiable link](https://confirm.udacity.com/GAGUYGL4))
   - [Developing Android Apps - MAL program](https://github.com/atefhares/CurriculumVitae/certificates/blob/master/Udacity/Mobile%20Application%20Lunchpad%20-%20Udacity.jpg) (verifiable link)
+  
 - Pluralsight
   - [Fundamentals of Cloud Computing](certificates/cloud-computing-fundamentals.pdf)
   - [Essential Google Cloud Infrastructure: Foundation](certificates/gcp_foundation.pdf)
