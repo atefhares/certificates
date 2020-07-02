@@ -63,10 +63,10 @@
 - Udacity
   - [Cloud DevOps Nanodegree](https://github.com/atefhares/CurriculumVitae/certificates/blob/master/Udacity/Cloud%20DevOps%20Engineer%20Nanodegree.pdf) ([verifiable link](https://confirm.udacity.com/GAGUYGL4))
   - [Developing Android Apps - MAL program](https://github.com/atefhares/CurriculumVitae/certificates/blob/master/Udacity/Mobile%20Application%20Lunchpad%20-%20Udacity.jpg) (verifiable link)
-  
+
 - Pluralsight
-  - [Fundamentals of Cloud Computing](certificates/cloud-computing-fundamentals.pdf)
-  - [Essential Google Cloud Infrastructure: Foundation](certificates/gcp_foundation.pdf)
+  - [Fundamentals of Cloud Computing](certificates/Pluralsight/cloud-computing-fundamentals.pdf)
+  - [Essential Google Cloud Infrastructure: Foundation](certificates/Pluralsight/gcp_foundation.pdf)
 
 - Coursera
   - [Google Cloud Platform Fundamentals: Core Infrastructure](https://github.com/atefhares/CurriculumVitae/certificates/blob/master/Coursera%20/Google%20Cloud%20Platform%20Fundamentals:%20Core%20Infrastructure.pdf) ([verifiable link](https://coursera.org/share/3b067d77c0741633b7ecc12beda305bd))
