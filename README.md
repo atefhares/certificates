@@ -65,8 +65,8 @@
   - [Developing Android Apps - MAL program](certificates/udacity/mobile_application_lunchpad_-_udacity.jpg) (verifiable link)
 
 - Pluralsight
-  - [Fundamentals of Cloud Computing](certificates/Pluralsight/cloud-computing-fundamentals.pdf)(verifiable link)
-  - [Essential Google Cloud Infrastructure: Foundation](certificates/Pluralsight/gcp_foundation.pdf)(verifiable link)
+  - [Fundamentals of Cloud Computing](certificates/Pluralsight/cloud-computing-fundamentals.pdf) (verifiable link)
+  - [Essential Google Cloud Infrastructure: Foundation](certificates/Pluralsight/gcp_foundation.pdf) (verifiable link)
 
 - Coursera
   - [Google Cloud Platform Fundamentals: Core Infrastructure](certificates/coursera/google_cloud_platform_fundamentals:_core_infrastructure.pdf) ([verifiable link](https://coursera.org/share/3b067d77c0741633b7ecc12beda305bd))
