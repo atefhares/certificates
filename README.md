@@ -30,7 +30,7 @@
     - [Jenkins Pipelines on AWS](https://github.com/atefhares/udacity_cloud_devops_nanodegree/tree/master/jenkins%20pipelines%20on%20AWS)
     - [Operationalize a Machine Learning Microservice API](https://github.com/atefhares/Udacity_Operationalize_a_Machine_Learning_Microservice_API)
     - [Capstone Project](https://github.com/atefhares/Udacity_DevOps_Nanodegree_Capstone_Project)
-  - CI/CD playground:  
+  - CI/CD playground:
     - [Challenge_0, building an infrastructure on AWS using jenkins, terraform, ansible, docker](https://github.com/atefhares/CICD_playground/tree/master/challenge_0)
     - [Challenge_1, dockerizing a simple python web app with Redis database](https://github.com/atefhares/CICD_playground/tree/master/challenge_1)
     - [Challenge_3, deploying the dockerized app from challenge_1 on a kubernetes cluster](https://github.com/atefhares/CICD_playground/tree/master/challenge_3)
@@ -44,7 +44,7 @@
   - Python - Django:
     - [CrowdFunding Console App](https://github.com/atefhares/CrowdFunding-Console-App)
     - [CrowdFunding Web App](https://github.com/atefhares/CrowdFunding-Web-App)
-  
+
 - Android applications:
   - [StudyOrganizer](https://github.com/atefhares/StudyOrganizer)
   - [PopularMovies](https://github.com/atefhares/PopularMovies)
@@ -67,7 +67,7 @@
 - Pluralsight
   - [Fundamentals of Cloud Computing](certificates/pluralsight/cloud-computing-fundamentals.pdf) (verifiable link)
   - [Essential Google Cloud Infrastructure: Foundation](certificates/pluralsight/gcp_foundation.pdf) (verifiable link)
-
+  - [Elastic Google Cloud Infrastructure: Scaling and Automation](certificates/pluralsight/elastic_google_cloud_infrastructure_scaling_and_automation.pdf) (verifiable link)
 - Coursera
   - [Google Cloud Platform Fundamentals: Core Infrastructure](certificates/coursera/google_cloud_platform_fundamentals:_core_infrastructure.pdf) ([verifiable link](https://coursera.org/share/3b067d77c0741633b7ecc12beda305bd))
 - Cisco
