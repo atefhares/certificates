@@ -67,6 +67,7 @@
 - Pluralsight
   - [Fundamentals of Cloud Computing](certificates/pluralsight/cloud-computing-fundamentals.pdf) (verifiable link)
   - [Essential Google Cloud Infrastructure: Foundation](certificates/pluralsight/gcp_foundation.pdf) (verifiable link)
+  - [Essential Google Cloud Infrastructure: Core Services](certificates/pluralsight/essential_google_cloud_infrastructure_core_services.pdf) (verifiable link)
   - [Elastic Google Cloud Infrastructure: Scaling and Automation](certificates/pluralsight/elastic_google_cloud_infrastructure_scaling_and_automation.pdf) (verifiable link)
 - Coursera
   - [Google Cloud Platform Fundamentals: Core Infrastructure](certificates/coursera/google_cloud_platform_fundamentals:_core_infrastructure.pdf) ([verifiable link](https://coursera.org/share/3b067d77c0741633b7ecc12beda305bd))
