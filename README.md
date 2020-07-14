@@ -34,6 +34,7 @@
     - [Challenge_0, building an infrastructure on AWS using jenkins, terraform, ansible, docker](https://github.com/atefhares/CICD_playground/tree/master/challenge_0)
     - [Challenge_1, dockerizing a simple python web app with Redis database](https://github.com/atefhares/CICD_playground/tree/master/challenge_1)
     - [Challenge_3, deploying the dockerized app from challenge_1 on a kubernetes cluster](https://github.com/atefhares/CICD_playground/tree/master/challenge_3)
+    - [Challenge_5, Automating a very simple infrastructure on GCP using terrform](https://github.com/atefhares/CICD_playground/blob/master/challenge_5)
 
 - Wep applications:
   - RubyOnRails:
