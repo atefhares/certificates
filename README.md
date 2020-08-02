@@ -10,13 +10,6 @@
     Atef Hares</a>
 </p>
 
-
-<p align="center">
-    <b>Contains a links to some projects I created and photocopy of some certificates that I earned.</b>
-    <br/>
-    <b>Will be updated periodically.</b>
-</p>
-
 ## Table Of Content
 * [Projects](#Projects)
 * [Certificates](#Certificates)
